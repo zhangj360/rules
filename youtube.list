@@ -188,4 +188,3 @@ USER-AGENT,com.google.ios.youtube*
 USER-AGENT,com.google.ios.youtubemusic*
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
-IP-CIDR,2620:120:E000::/40,no-resolve
