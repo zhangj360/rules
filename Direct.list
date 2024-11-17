@@ -46,9 +46,8 @@ USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
 # ---(Microsoft)---
 # > Outlook
-DOMAIN,outlook.office365.com
-DOMAIN,smtp-mail.outlook.com
-DOMAIN,smtp.office365.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,outlook.com
 # > Windows Server Update Services
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
@@ -72,8 +71,8 @@ IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,203.205.238.0/23,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
 # > IP Query
-DOMAIN,ip.istatmenus.app
-DOMAIN,sms.imagetasks.com
+DOMAIN-SUFFIX,istatmenus.app
+DOMAIN-SUFFIX,imagetasks.com
 # > Speed Test
 DOMAIN-SUFFIX,netspeedtestmaster.com
 DOMAIN,speedtest.macpaw.com
