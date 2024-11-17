@@ -1069,3 +1069,32 @@ IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 # > ZOL
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
+
+# > 常见广告域名屏蔽
+DOMAIN-KEYWORD,admarvel
+DOMAIN-KEYWORD,admaster
+DOMAIN-KEYWORD,adsage
+DOMAIN-KEYWORD,adsmogo
+DOMAIN-KEYWORD,adsrvmedia
+DOMAIN-KEYWORD,adwords
+DOMAIN-KEYWORD,adservice
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-KEYWORD,domob
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-KEYWORD,duomeng
+DOMAIN-KEYWORD,dwtrack
+DOMAIN-KEYWORD,guanggao
+DOMAIN-KEYWORD,lianmeng
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-KEYWORD,mopub
+DOMAIN-KEYWORD,omgmta
+DOMAIN-KEYWORD,openx
+DOMAIN-KEYWORD,partnerad
+DOMAIN-KEYWORD,pingfore
+DOMAIN-KEYWORD,supersonicads
+DOMAIN-KEYWORD,uedas
+DOMAIN-KEYWORD,umeng
+DOMAIN-KEYWORD,usage
+DOMAIN-SUFFIX,vungle.com
+DOMAIN-KEYWORD,wlmonitor
+DOMAIN-KEYWORD,zjtoolbar
