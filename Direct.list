@@ -19,8 +19,6 @@ IP-CIDR,116.63.0.0/16,no-resolve
 IP-CIDR,164.90.0.0/16,no-resolve
 IP-CIDR,103.139.72.231/32,no-resolve
 # Apple
-DOMAIN,safebrowsing.googleapis.com
-DOMAIN,safebrowsing.urlsec.qq.com
 USER-AGENT,com.apple.appstored*
 USER-AGENT,AppStore*
 DOMAIN-SUFFIX,mzstatic.com
