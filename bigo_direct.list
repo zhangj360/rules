@@ -1,12 +1,21 @@
-# direct
-DOMAIN-SUFFIX,bigovideo.tv
-DOMAIN-SUFFIX,giphy.com
-DOMAIN-SUFFIX,hzmk.site
-DOMAIN-SUFFIX,like.video
-DOMAIN-SUFFIX,likee.video
-DOMAIN-SUFFIX,like-video.com
-IP-CIDR,202.168.0.0/16,no-resolve
-IP-CIDR,202.63.0.0/16,no-resolve
-IP-CIDR,116.63.0.0/16,no-resolve
-IP-CIDR,103.139.72.231/32,no-resolve
-IP-CIDR,164.90.0.0/16,no-resolve
+# BIGOLIVE
+DOMAIN-SUFFIX,app-analytics-services.com,DIRECT
+DOMAIN-SUFFIX,dfaklj.tech,DIRECT
+DOMAIN-SUFFIX,app-measurement.com,DIRECT
+DOMAIN-SUFFIX,bdesk.tech,DIRECT
+DOMAIN-SUFFIX,bigo.tv,DIRECT
+DOMAIN-SUFFIX,bigolive.tv,DIRECT
+DOMAIN-SUFFIX,bigovideo.tv,DIRECT
+DOMAIN-SUFFIX,giphy.com,DIRECT
+DOMAIN-SUFFIX,hzmk.site,DIRECT
+DOMAIN-SUFFIX,like.video,DIRECT
+DOMAIN-SUFFIX,likee.video,DIRECT
+DOMAIN-SUFFIX,like-video.com,DIRECT
+DOMAIN-SUFFIX,appsflyersdk.com,DIRECT
+DOMAIN-KEYWORD,bigopay,DIRECT
+DOMAIN-SUFFIX,linhty.xyz,DIRECT
+IP-CIDR,202.168.0.0/16,DIRECT,no-resolve
+IP-CIDR,202.63.0.0/16,DIRECT,no-resolve
+IP-CIDR,116.63.0.0/16,DIRECT,no-resolve
+IP-CIDR,164.90.0.0/16,DIRECT,no-resolve
+IP-CIDR,103.139.72.231/32,DIRECT,no-resolve
