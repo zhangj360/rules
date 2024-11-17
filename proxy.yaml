@@ -546,3 +546,5 @@ payload:
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
   - PROCESS-NAME,com.zhiliaoapp.musically
+# 特殊网站
+  - DOMAIN-SUFFIX,githubusercontent.com
