@@ -544,6 +544,7 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.us
   - DOMAIN-SUFFIX,ttwebview.com
   - DOMAIN-KEYWORD,musical.ly
+  - DOMAIN-SUFFIX,ttwstatic.com
   - DOMAIN-KEYWORD,tiktok
   - PROCESS-NAME,com.zhiliaoapp.musically
   - USER-AGENT,TikTok*
