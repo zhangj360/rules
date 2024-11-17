@@ -1,4 +1,4 @@
-# tiktok
+# TIKTOK
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
@@ -25,9 +25,7 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-KEYWORD,musical.ly
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-KEYWORD,tiktok
+PROCESS-NAME,com.zhiliaoapp.musically
 USER-AGENT,TikTok*
