@@ -1,25 +1,26 @@
 payload:
 # BIGOLIVE
-  - DOMAIN-SUFFIX,app-analytics-services.com
-  - DOMAIN-SUFFIX,dfaklj.tech
-  - DOMAIN-SUFFIX,app-measurement.com
-  - DOMAIN-SUFFIX,bdesk.tech
-  - DOMAIN-SUFFIX,bigo.tv
-  - DOMAIN-SUFFIX,bigolive.tv
-  - DOMAIN-SUFFIX,bigovideo.tv
-  - DOMAIN-SUFFIX,giphy.com
-  - DOMAIN-SUFFIX,hzmk.site
-  - DOMAIN-SUFFIX,like.video
-  - DOMAIN-SUFFIX,likee.video
-  - DOMAIN-SUFFIX,like-video.com
-  - DOMAIN-SUFFIX,appsflyersdk.com
-  - DOMAIN-KEYWORD,bigopay
-  - DOMAIN-SUFFIX,linhty.xyz
-  - IP-CIDR,202.168.0.0/16,no-resolve
-  - IP-CIDR,202.63.0.0/16,no-resolve
-  - IP-CIDR,116.63.0.0/16,no-resolve
-  - IP-CIDR,164.90.0.0/16,no-resolve
-  - IP-CIDR,103.139.72.231/32,no-resolve
+  - DOMAIN-SUFFIX,sgmbocast.com
+  - DOMAIN-SUFFIX,piojm.tech
+  - DOMAIN-SUFFIX,weihuitel.com
+  - DOMAIN-SUFFIX,ukyuh.tech
+  - DOMAIN-SUFFIX,bigo.sg
+  - DOMAIN-SUFFIX,f2ecdn.com
+  - IP-CIDR,169.136.127.0/24,no-resolve
+  - IP-CIDR,169.136.94.0/24,no-resolve
+  - IP-CIDR,169.136.68.0/24,no-resolve
+  - IP-CIDR,58.217.0.0/16,no-resolve
+  - IP-CIDR,58.221.0.0/16,no-resolve
+  - IP-CIDR,18.164.0.0/16,no-resolve
+  - IP-CIDR,18.244.0.0/16,no-resolve
+  - IP-CIDR,13.33.0.0/16,no-resolve
+  - IP-CIDR,13.32.0.0/16,no-resolve
+  - IP-CIDR,3.163.0.0/16,no-resolve
+  - IP-CIDR,52.222.0.0/16,no-resolve
+  - IP-CIDR,52.85.0.0/16,no-resolve
+  - IP-CIDR,13.225.0.0/16,no-resolve
+  - IP-CIDR,113.105.0.0/16,no-resolve
+  - IP-CIDR,91.108.0.0/16,no-resolve
 # Apple
   - DOMAIN,developer.apple.com
   - DOMAIN-SUFFIX,digicert.com
