@@ -16,7 +16,8 @@ DOMAIN-SUFFIX,bigopay.tech
 DOMAIN-SUFFIX,bigopay.sg
 DOMAIN-KEYWORD,bigopay
 DOMAIN-SUFFIX,linhty.xyz
-IP-CIDR,202.168.0.0/16,no-resolve
+IP-CIDR,202.63.51.0/16,no-resolve
+IP-CIDR,202.63.48.0/16,no-resolve
 IP-CIDR,103.139.72.231/32,no-resolve
 IP-CIDR,103.139.72.46/32,no-resolve
 IP-CIDR,103.139.72.231/32,no-resolve
