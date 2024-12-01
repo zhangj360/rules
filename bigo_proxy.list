@@ -4,11 +4,6 @@ DOMAIN-SUFFIX,weihuitel.com
 DOMAIN-SUFFIX,ukyuh.tech
 DOMAIN-SUFFIX,bigo.sg
 DOMAIN-SUFFIX,f2ecdn.com
-IP-CIDR,169.136.127.0/24,no-resolve
-IP-CIDR,169.136.94.0/24,no-resolve
-IP-CIDR,169.136.68.0/24,no-resolve
-IP-CIDR,169.136.160.0/24,no-resolve
-IP-CIDR,169.136.73.0/24,no-resolve
 IP-CIDR,169.136.0.0/32,no-resolve
 IP-CIDR,58.217.0.0/16,no-resolve
 IP-CIDR,58.221.0.0/16,no-resolve
