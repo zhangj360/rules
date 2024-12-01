@@ -20,3 +20,11 @@ payload:
   - IP-CIDR,116.63.0.0/16,no-resolve
   - IP-CIDR,164.90.0.0/16,no-resolve
   - IP-CIDR,103.139.72.231/32,no-resolve
+  - IP-CIDR,103.139.72.46/32,no-resolve
+  - IP-CIDR,103.139.72.231/32,no-resolve
+  - IP-CIDR,103.139.72.148/32,no-resolve
+  - IP-CIDR,103.139.72.0/32,no-resolve
+  - IP-CIDR,164.90.114.31/32,no-resolve
+  - IP-CIDR,164.90.117.68/32,no-resolve
+  - IP-CIDR,164.90.114.0/32,no-resolve
+  - IP-CIDR,164.90.117.0/32,no-resolve
