@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,likee.video
   - DOMAIN-SUFFIX,like-video.com
   - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,bigopay.tech
+  - DOMAIN-SUFFIX,bigopay.sg
   - DOMAIN-KEYWORD,bigopay
   - DOMAIN-SUFFIX,linhty.xyz
   - IP-CIDR,202.168.0.0/16,no-resolve
