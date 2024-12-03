@@ -20,3 +20,10 @@ payload:
   - IP-CIDR,202.63.48.0/24
   - IP-CIDR,103.139.72.0/24
   - IP-CIDR,164.90.0.0/16
+  - DOMAIN-SUFFIX,sgmbocast.com
+  - DOMAIN-SUFFIX,piojm.tech
+  - DOMAIN-SUFFIX,weihuitel.com
+  - DOMAIN-SUFFIX,ukyuh.tech
+  - DOMAIN-SUFFIX,bigo.sg
+  - DOMAIN-SUFFIX,f2ecdn.com
+
