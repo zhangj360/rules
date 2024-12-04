@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,mwcname.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apps.apple.com
 # DOMAIN,e.crashlytics.com,REJECT
 # 国内网站
 DOMAIN-SUFFIX,cn
