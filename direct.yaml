@@ -1,6 +1,17 @@
 payload:
 # 自定义规则
   - DOMAIN-SUFFIX,yebanhua.online
+  - DOMAIN-SUFFIX,yebanhua.online
+  - DOMAIN-SUFFIX,ssrdog222.com
+  - DOMAIN-SUFFIX,hongxingdl.com
+  - DOMAIN-SUFFIX,cloudfisher.net
+  - DOMAIN-SUFFIX,sdkdns13.com
+  - DOMAIN-SUFFIX,kuaimao3.club
+  - DOMAIN-SUFFIX,kmfq.ink
+  - DOMAIN-SUFFIX,passwallwall.life
+  - DOMAIN-SUFFIX,99catnet.com
+  - DOMAIN-SUFFIX,10520.click
+  - DOMAIN-SUFFIX,55jiasu.com
 # Apple
   - USER-AGENT,com.apple.appstored*
   - USER-AGENT,AppStore*
