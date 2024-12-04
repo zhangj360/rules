@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,99catnet.com
 DOMAIN-SUFFIX,10520.click
 DOMAIN-SUFFIX,55jiasu.com
 DOMAIN-SUFFIX,appjiagu.com
+DOMAIN-SUFFIX,lerist.cc
 # Apple
 USER-AGENT,com.apple.appstored*
 USER-AGENT,AppStore*
