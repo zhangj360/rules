@@ -2,7 +2,7 @@ payload:
 # Advertising
 # > General
   - DOMAIN-KEYWORD,adservice
-
+  - DOMAIN-SUFFIX,eydata.net
   - DOMAIN-SUFFIX,17gouwuba.com
   - DOMAIN-SUFFIX,186078.com
   - DOMAIN-SUFFIX,189key.com
