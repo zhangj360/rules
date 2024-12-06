@@ -16,6 +16,11 @@ payload:
   - DOMAIN-SUFFIX,55jiasu.com
   - DOMAIN-SUFFIX,appjiagu.com
   - DOMAIN-SUFFIX,lerist.cc
+  - DOMAIN-SUFFIX,urlapi-dodo.cyou
+  - DOMAIN-SUFFIX,urlapi-dodo.me
+  - DOMAIN-SUFFIX,zhunchuanpb.com
+  - DOMAIN-SUFFIX,saojc.xyz
+  - DOMAIN-SUFFIX,eehk.net
 # Apple
   - USER-AGENT,com.apple.appstored*
   - USER-AGENT,AppStore*
