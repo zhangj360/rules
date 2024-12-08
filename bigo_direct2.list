@@ -16,4 +16,16 @@ IP-CIDR,18.164.0.0/16
 IP-CIDR,3.163.0.0/16
 IP-CIDR,91.108.0.0/16
 IP-CIDR,13.33.0.0/16
+DOMAIN-KEYWORD,bigopay
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,like-video.com
+DOMAIN-SUFFIX,bigopay.sg
+DOMAIN-SUFFIX,giphy.com
+DOMAIN-SUFFIX,dfaklj.tech
+DOMAIN-SUFFIX,bdesk.tech
+DOMAIN-SUFFIX,bigovideo.tv
+DOMAIN-SUFFIX,hzmk.site
+DOMAIN-SUFFIX,bigopay.tech
+DOMAIN-SUFFIX,linhty.xyz
+DOMAIN-SUFFIX,app-measurement.com
 
