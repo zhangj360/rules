@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,f2ecdn.com
   - DOMAIN-SUFFIX,ukyuh.tech
   - DOMAIN-SUFFIX,bigo.sg
+  - DOMAIN-SUFFIX,cloudfront.net
   - IP-CIDR,113.105.0.0/16
   - IP-CIDR,14.152.0.0/16
   - IP-CIDR,14.152.91.63/16
