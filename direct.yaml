@@ -1,7 +1,7 @@
 payload:
 # 自定义规则
   - DOMAIN-SUFFIX,yebanhua.online
-  - DOMAIN-SUFFIX,yebanhua.online
+  - DOMAIN-SUFFIX,onelink.me
   - DOMAIN-SUFFIX,ssrdog222.com
   - DOMAIN-SUFFIX,hongxingdl.com
   - DOMAIN-SUFFIX,cloudfisher.net
