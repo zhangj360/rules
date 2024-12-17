@@ -1,4 +1,4 @@
 #meoo live
 DOMAIN-SUFFIX,mymeoo.cc
-DOMAIN-SUFFIX,dutils.com
-DOMAIN-SUFFIX,meoo.live
+#DOMAIN-SUFFIX,dutils.com
+#DOMAIN-SUFFIX,meoo.live
