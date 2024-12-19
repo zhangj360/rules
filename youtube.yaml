@@ -187,3 +187,4 @@ payload:
   - USER-AGENT,YouTubeMusic*
   - USER-AGENT,com.google.ios.youtube*
   - USER-AGENT,com.google.ios.youtubemusic*
+  - PROCESS-NAME,com.alkhalildevelopers.ytdownloaderpro
