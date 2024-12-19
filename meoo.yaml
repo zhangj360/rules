@@ -3,3 +3,4 @@ payload:
   - DOMAIN-KEYWORD,mymeoo
   - DOMAIN-SUFFIX,dutils.com
   - DOMAIN-SUFFIX,meoo.live
+  - PROCESS-NAME,com.ufun.livestreaming
