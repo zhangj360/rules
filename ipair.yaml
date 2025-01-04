@@ -13,3 +13,6 @@ payload:
   - DOMAIN-SUFFIX,adjust.net.in
   - DOMAIN-SUFFIX,ipair.com
   - DOMAIN-SUFFIX,ipimg.com
+  - DOMAIN-KEYWORD,i-part
+  - DOMAIN-KEYWORD,ipair
+  - DOMAIN-KEYWORD,ipimg
