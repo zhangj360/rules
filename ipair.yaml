@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN,van.ipimg.com
+  - DOMAIN,ishow.i-part.com.tw
+  - DOMAIN,api.i-part.com.tw
+  - DOMAIN,app.adjust.net.in
+  - DOMAIN,nodelive.ipair.com
+  - DOMAIN,live.ipair.com
+  - DOMAIN,z.m.ipimg.com
+  - DOMAIN,v.m.ipimg.com
+  - DOMAIN,img.ipimg.com
+  - DOMAIN-SUFFIX,volceapplog.com
+  - DOMAIN-SUFFIX,i-part.com.tw
+  - DOMAIN-SUFFIX,adjust.net.in
+  - DOMAIN-SUFFIX,ipair.com
+  - DOMAIN-SUFFIX,ipimg.com
