@@ -16,3 +16,4 @@ payload:
   - DOMAIN-KEYWORD,i-part
   - DOMAIN-KEYWORD,ipair
   - DOMAIN-KEYWORD,ipimg
+  - IP-CIDR,157.185.0.0/16
