@@ -7,17 +7,6 @@ DOMAIN-SUFFIX,lightningxvpn.com
 DOMAIN-SUFFIX,llg01.com
 DOMAIN-SUFFIX,ssrdog222.com
 DOMAIN-KEYWORD,ssrdog222.com
-# Apple
-DOMAIN,developer.apple.com
-DOMAIN-SUFFIX,digicert.com
-USER-AGENT,com.apple.trustd*
-DOMAIN-SUFFIX,apple-dns.net
-DOMAIN,testflight.apple.com
-DOMAIN,sandbox.itunes.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,blobstore.apple.com
-DOMAIN,cvws.icloud-content.com
 # > Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
