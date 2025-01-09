@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,llg01.com
   - DOMAIN-SUFFIX,ssrdog222.com
   - DOMAIN-KEYWORD,ssrdog222.com
+  - PROCESS-NAME,com.alkhalildevelopers.ytdownloaderpro
 # > Line
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,line-apps.com
