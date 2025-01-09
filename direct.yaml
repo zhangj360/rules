@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,zhunchuanpb.com
   - DOMAIN-SUFFIX,saojc.xyz
   - DOMAIN-SUFFIX,eehk.net
+  - PROCESS-NAME,com.wujie.connect
 # Apple
   - USER-AGENT,com.apple.appstored*
   - USER-AGENT,AppStore*
