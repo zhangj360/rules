@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": []
+    },
+    {
+      "domain_suffix": [
+        "mymeoo.cc",
+        "dutils.com",
+        "meoo.live"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "mymeoo"
+	  ]
+    },
+    {
+      "ip_cidr": []
+    },
+    {
+      "package": [
+        "com.ufun.livestreaming"
+	  ]
+    }
+  ]
+}
