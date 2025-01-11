@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "download.microsoft.com",
+        "wustat.windows.com",
+        "ntservicepack.microsoft.com",
+        "speedtest.macpaw.com"
+	  ]
+    },
+    {
+      "domain_suffix": [
+            "yebanhua.online",
+            "onelink.me",
+            "hongxingdl.com",
+            "cloudfisher.net",
+            "sdkdns13.com",
+            "kuaimao3.club",
+            "kmfq.ink",
+            "1.passwallwall.life",
+            "2.passwallwall.life",
+            "3.passwallwall.life",
+            "99catnet.com",
+            "10520.click",
+            "55jiasu.com",
+            "appjiagu.com",
+            "lerist.cc",
+            "urlapi-dodo.cyou",
+            "urlapi-dodo.me",
+            "zhunchuanpb.com",
+            "saojc.xyz",
+            "eehk.net",
+            "mzstatic.com",
+            "itunes.apple.com",
+            "icloud.com",
+            "icloud-content.com",
+            "me.com",
+            "aaplimg.com",
+            "cdn20.com",
+            "cdn-apple.com",
+            "akadns.net",
+            "akamaiedge.net",
+            "edgekey.net",
+            "mwcloudcdn.com",
+            "mwcname.com",
+            "apple.com",
+            "apple-cloudkit.com",
+            "apple-mapkit.com",
+            "apps.apple.com",
+            "cn",
+            "office365.com",
+            "outlook.com",
+            "dl.delivery.mp.microsoft.com",
+            "update.microsoft.com",
+            "windowsupdate.com",
+            "windowsupdate.microsoft.com",
+            "paypal.com",
+            "paypal.me",
+            "paypal-mktg.com",
+            "paypalobjects.com",
+            "cm.steampowered.com",
+            "steamserver.net",
+            "istatmenus.app",
+            "imagetasks.com",
+            "netspeedtestmaster.com",
+            "local"
+      ]
+    },
+	{
+      "domain_keyword": []
+    },
+    {
+      "ip_cidr": [
+        "127.0.0.0/8",
+        "172.16.0.0/12",
+        "192.168.0.0/16",
+        "10.0.0.0/8",
+        "17.0.0.0/8",
+        "100.64.0.0/10",
+        "224.0.0.0/4",
+        "fe80::/10"
+	  ]
+    },
+	{
+      "package": []
+    },
+  ]
+}
