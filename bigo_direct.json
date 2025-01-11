@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": []
+    },
+    {
+      "domain_suffix": [
+        ".likee.video",
+        ".appsflyersdk.com",
+        ".bigo.tv",
+        ".bigolive.tv",
+        ".like.video",
+        ".app-analytics-services.com",
+        ".like-video.com",
+        ".bigopay.sg",
+        ".giphy.com",
+        ".dfaklj.tech",
+        ".bdesk.tech",
+        ".bigovideo.tv",
+        ".hzmk.site",
+        ".bigopay.tech",
+        ".linhty.xyz",
+        ".app-measurement.com",
+        ".sgmbocast.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "164.90.0.0/16",
+        "103.139.72.0/24",
+        "202.63.51.0/24",
+        "202.168.0.0/16",
+        "169.136.0.0/16",
+        "164.90.0.0/16"
+      ]
+    }
+  ]
+}
