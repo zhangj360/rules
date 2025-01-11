@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": []
+    },
+    {
+      "domain_suffix": [
+        "volceapplog.com",
+        "i-part.com.tw",
+        "adjust.net.in",
+        "ipair.com",
+        "ipimg.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "i-part",
+        "ipair",
+        "ipimg"
+	  ]
+    },
+    {
+      "ip_cidr": [
+        "157.185.0.0/16"
+	  ]
+    },
+    {
+      "package": [
+        "com.ipart.android"
+      ]
+    },
+  ]
+}
