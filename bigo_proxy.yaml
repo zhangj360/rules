@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ukyuh.tech
   - DOMAIN-SUFFIX,bigo.sg
   - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,sgmbocast.com
   - IP-CIDR,58.217.0.0/16
   - IP-CIDR,58.221.0.0/16
   - IP-CIDR,103.139.72.0/24
