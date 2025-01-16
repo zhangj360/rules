@@ -16,7 +16,6 @@ payload:
   - DOMAIN-SUFFIX,bigopay.tech
   - DOMAIN-SUFFIX,linhty.xyz
   - DOMAIN-SUFFIX,app-measurement.com
-  - DOMAIN-SUFFIX,sgmbocast.com
   - IP-CIDR,202.168.0.0/16
   - IP-CIDR,36.155.0.0/16
   - IP-CIDR,31.13.0.0/16
