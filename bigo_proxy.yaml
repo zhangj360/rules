@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,bigo.sg
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,sgmbocast.com
+  - IP-CIDR,36.155.0.0/16
   - IP-CIDR,58.217.0.0/16
   - IP-CIDR,58.221.0.0/16
   - IP-CIDR,202.63.0.0/16
