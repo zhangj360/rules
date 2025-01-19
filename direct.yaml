@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,3.passwallwall.life
   - DOMAIN-KEYWORD,passwallwall.life
   - DOMAIN-KEYWORD,cloudfisher
+  - DOMAIN-KEYWORD,ssrdog
+  - DOMAIN-KEYWORD,urlapi-dodo
   - DOMAIN-SUFFIX,99catnet.com
   - DOMAIN-SUFFIX,10520.click
   - DOMAIN-SUFFIX,55jiasu.com
