@@ -179,6 +179,7 @@ payload:
   - DOMAIN-SUFFIX,youtubemobilesupport.com
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,startappservice.com
   - DOMAIN-KEYWORD,youtube
   - USER-AGENT,*YouTubeMusic*
   - USER-AGENT,*com.google.ios.youtubemusic*
