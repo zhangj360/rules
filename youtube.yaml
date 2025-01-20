@@ -180,6 +180,7 @@ payload:
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,startappservice.com
+  - DOMAIN-SUFFIX,hicloud.com
   - DOMAIN-KEYWORD,youtube
   - USER-AGENT,*YouTubeMusic*
   - USER-AGENT,*com.google.ios.youtubemusic*
