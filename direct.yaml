@@ -1,5 +1,6 @@
 payload:
 # 自定义规则
+  - DOMAIN-SUFFIX,fnnas.com
   - DOMAIN-SUFFIX,yebanhua.online
   - DOMAIN-SUFFIX,onelink.me
   - DOMAIN-SUFFIX,hongxingdl.com
