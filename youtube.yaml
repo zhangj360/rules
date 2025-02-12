@@ -182,6 +182,8 @@ payload:
   - DOMAIN-SUFFIX,startappservice.com
   - DOMAIN-SUFFIX,hicloud.com
   - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,YouTube
+  - DOMAIN-KEYWORD,ggpht
   - USER-AGENT,*YouTubeMusic*
   - USER-AGENT,*com.google.ios.youtubemusic*
   - USER-AGENT,*youtube*
