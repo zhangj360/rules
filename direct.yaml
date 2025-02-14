@@ -29,8 +29,8 @@ payload:
   - DOMAIN-SUFFIX,eehk.net
   - PROCESS-NAME,com.wujie.connect
 # Apple
-  - USER-AGENT,com.apple.appstored*
-  - USER-AGENT,AppStore*
+#  - USER-AGENT,com.apple.appstored*
+#  - USER-AGENT,AppStore*
   - DOMAIN-SUFFIX,mzstatic.com
   - DOMAIN-SUFFIX,itunes.apple.com
   - DOMAIN-SUFFIX,icloud.com
@@ -52,8 +52,8 @@ payload:
 # 国内网站
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
-  - USER-AGENT,MicroMessenger Client
-  - USER-AGENT,WeChat*
+#  - USER-AGENT,MicroMessenger Client
+#  - USER-AGENT,WeChat*
 # ---(Microsoft)---
 # > Outlook
   - DOMAIN-SUFFIX,office365.com
