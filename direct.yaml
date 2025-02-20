@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,1.passwallwall.life
   - DOMAIN-SUFFIX,2.passwallwall.life
   - DOMAIN-SUFFIX,3.passwallwall.life
-  - DOMAIN-KEYWORD,passwallwall.life
+  - DOMAIN-KEYWORD,passwallwall
   - DOMAIN-SUFFIX,1010520.click
   - DOMAIN-KEYWORD,cloudfisher
   - DOMAIN-KEYWORD,ssrdog
