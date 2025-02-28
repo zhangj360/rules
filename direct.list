@@ -22,8 +22,8 @@ DOMAIN-SUFFIX,10520.click
 DOMAIN-SUFFIX,55jiasu.com
 DOMAIN-SUFFIX,appjiagu.com
 DOMAIN-SUFFIX,lerist.cc
-DOMAIN-SUFFIX,urlapi-dodo.cyou
-DOMAIN-SUFFIX,urlapi-dodo.me
+#DOMAIN-SUFFIX,urlapi-dodo.cyou
+#DOMAIN-SUFFIX,urlapi-dodo.me
 DOMAIN-SUFFIX,zhunchuanpb.com
 DOMAIN-SUFFIX,saojc.xyz
 DOMAIN-SUFFIX,eehk.net
