@@ -1,6 +1,7 @@
 payload:
 # VPN 
   - DOMAIN-SUFFIX,6bcloud.top
+  - DOMAIN-SUFFIX,nezha.wuyrl.cn
   - DOMAIN-SUFFIX,fnyunh.shop
   - DOMAIN-SUFFIX,eevpn.com
   - DOMAIN-SUFFIX,ktmcloud.cloud
@@ -9,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,urlapi-dodo.me
   - DOMAIN-SUFFIX,ssrdog222.com
   - DOMAIN-KEYWORD,ssrdog222.com
-  - DOMAIN-KEYWORD,nezha.wuyrl.cn
   - DOMAIN-KEYWORD,ssrdog10.com
   - DOMAIN-KEYWORD,km688.ink
   - PROCESS-NAME,com.alkhalildevelopers.ytdownloaderpro
