@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,likee.video
   - DOMAIN-SUFFIX,bigo.tv
-  - DOMAIN-SUFFIX,bigolive.tv
   - DOMAIN-SUFFIX,like.video
   - DOMAIN-KEYWORD,bigopay
   - DOMAIN-SUFFIX,app-analytics-services.com
