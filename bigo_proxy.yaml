@@ -2,7 +2,6 @@ payload:
   - DOMAIN-SUFFIX,weihuitel.com
   - DOMAIN-SUFFIX,f2ecdn.com
   - DOMAIN-SUFFIX,ukyuh.tech
-  - DOMAIN-SUFFIX,bigo.sg
   - DOMAIN-SUFFIX,cloudfront.net
   - IP-CIDR,36.155.0.0/16
   - IP-CIDR,58.217.0.0/16
