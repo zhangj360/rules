@@ -3,11 +3,11 @@ payload:
   - DOMAIN-SUFFIX,f2ecdn.com
   - DOMAIN-SUFFIX,ukyuh.tech
   - DOMAIN-SUFFIX,cloudfront.net
-  - IP-CIDR,36.155.0.0/16
-  - IP-CIDR,58.217.0.0/16
-  - IP-CIDR,58.221.0.0/16
-  - IP-CIDR,13.225.0.0/16
-  - IP-CIDR,13.226.0.0/16
-  - IP-CIDR,13.32.0.0/16
-  - IP-CIDR,13.33.0.0/16
-  - IP-CIDR,13.35.0.0/16
+  - IP-CIDR,36.155.0.0/16,no-resolve
+  - IP-CIDR,58.217.0.0/16,no-resolve
+  - IP-CIDR,58.221.0.0/16,no-resolve
+  - IP-CIDR,13.225.0.0/16,no-resolve
+  - IP-CIDR,13.226.0.0/16,no-resolve
+  - IP-CIDR,13.32.0.0/16,no-resolve
+  - IP-CIDR,13.33.0.0/16,no-resolve
+  - IP-CIDR,13.35.0.0/16,no-resolve
