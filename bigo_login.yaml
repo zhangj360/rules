@@ -2,8 +2,8 @@ payload:
   - DOMAIN-SUFFIX,sgmbocast.com
   - DOMAIN-SUFFIX,bigolive.tv
   - DOMAIN-SUFFIX,bigolive.sg
-  - IP-CIDR,164.90.0.0/16
-  - IP-CIDR,103.139.72.0/24
-  - IP-CIDR,202.168.0.0/16
-  - IP-CIDR,169.136.0.0/16
-  - IP-CIDR,202.63.0.0/16
+  - IP-CIDR,164.90.0.0/16,no-resolve
+  - IP-CIDR,103.139.72.0/24,no-resolve
+  - IP-CIDR,202.168.0.0/16,no-resolve
+  - IP-CIDR,169.136.0.0/16,no-resolve
+  - IP-CIDR,202.63.0.0/16,no-resolve
