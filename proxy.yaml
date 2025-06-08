@@ -1,6 +1,7 @@
 payload:
 # VPN 
   - DOMAIN-SUFFIX,6bcloud.top
+  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,nezha.wuyrl.cn
   - DOMAIN-SUFFIX,fnyunh.shop
   - DOMAIN-SUFFIX,eevpn.com
