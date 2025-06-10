@@ -35,6 +35,7 @@ payload:
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-SUFFIX,google.com.sl
 # 国外网站
   - DOMAIN-SUFFIX,9to5mac.com
   - DOMAIN-SUFFIX,abpchina.org
