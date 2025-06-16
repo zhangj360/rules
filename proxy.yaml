@@ -23,6 +23,7 @@ payload:
 # 抗 DNS 污染
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,google.com.sg
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,facebook
