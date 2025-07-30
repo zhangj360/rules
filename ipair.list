@@ -1,3 +1,12 @@
+DOMAIN,van.ipimg.com
+DOMAIN,ishow.i-part.com.tw
+DOMAIN,api.i-part.com.tw
+DOMAIN,app.adjust.net.in
+DOMAIN,nodelive.ipair.com
+DOMAIN,live.ipair.com
+DOMAIN,z.m.ipimg.com
+DOMAIN,v.m.ipimg.com
+DOMAIN,img.ipimg.com
 DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,i-part.com.tw
 DOMAIN-SUFFIX,adjust.net.in
@@ -6,4 +15,7 @@ DOMAIN-SUFFIX,ipimg.com
 DOMAIN-KEYWORD,i-part
 DOMAIN-KEYWORD,ipair
 DOMAIN-KEYWORD,ipimg
-IP-CIDR,157.185.0.0/16,no-resolve
+IP-CIDR,157.185.0.0/16
+DOMAIN-KEYWORD,i-part
+DOMAIN-KEYWORD,ipair
+DOMAIN-KEYWORD,ipimg
