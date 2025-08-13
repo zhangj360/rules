@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,yebanhua.online
+  - DOMAIN-SUFFIX,gyybf.com
   - DOMAIN,14033.live.streamtheworld.com
   - DOMAIN,156zy.suyunbo.tv
   - DOMAIN,19183.live.streamtheworld.com
@@ -65400,3 +65401,4 @@ payload:
   - PROCESS-NAME,com.wujie.connect
   - USER-AGENT,cloudd*
   - DOMAIN-SUFFIX,yebanhua.online
+
