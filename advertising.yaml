@@ -1,5 +1,6 @@
 payload:
 # Advertising
+  - DOMAIN-SUFFIX,pages.dev
 # > General
   - DOMAIN-KEYWORD,adservice
   - DOMAIN-SUFFIX,eydata.net
