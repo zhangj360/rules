@@ -1,4 +1,7 @@
 payload:
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,max.com
+  - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,vphoneos.com
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,nucleusvpn.com
@@ -65392,4 +65395,5 @@ payload:
   - IP-CIDR,47.52.183.123/32,no-resolve
   - PROCESS-NAME,com.wujie.connect
   - USER-AGENT,cloudd*
+
 
