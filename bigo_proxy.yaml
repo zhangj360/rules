@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN,static-fed.yqwsa.net
+  - DOMAIN,ta.ukyuh.tech
   - DOMAIN-SUFFIX,weihuitel.com
   - DOMAIN-SUFFIX,f2ecdn.com
   - DOMAIN-SUFFIX,ukyuh.tech
@@ -16,3 +18,5 @@ payload:
   - IP-CIDR,13.33.0.0/16,no-resolve
   - IP-CIDR,13.35.0.0/16,no-resolve
   - IP-CIDR,113.105.0.0/16,no-resolve
+  - IP-CIDR,13.57.0.0/16,no-resolve
+  - IP-CIDR,13.115.0.0/16,no-resolve
