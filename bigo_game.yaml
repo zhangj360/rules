@@ -1,2 +1,4 @@
 payload:
+  - DOMAIN,esx.piojm.tech
+  - DOMAIN,static-web.piojm.tech
   - DOMAIN-SUFFIX,piojm.tech
