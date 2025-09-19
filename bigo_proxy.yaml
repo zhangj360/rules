@@ -1,4 +1,7 @@
 payload:
+  - DOMAIN,gdl.bigo.sg
+  - DOMAIN,giftesx.bigo.sg
+  - DOMAIN,frontmon-sysop.bigo.sg
   - DOMAIN,static-fed.yqwsa.net
   - DOMAIN,ta.ukyuh.tech
   - DOMAIN-SUFFIX,weihuitel.com
