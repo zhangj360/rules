@@ -1,3 +1,5 @@
+DOMAIN,api.likee.video
+DOMAIN,support1.like.video
 DOMAIN-SUFFIX,likee.video
 DOMAIN-SUFFIX,bigo.tv
 DOMAIN-SUFFIX,like.video
@@ -13,7 +15,6 @@ DOMAIN-SUFFIX,hzmk.site
 DOMAIN-SUFFIX,bigopay.tech
 DOMAIN-SUFFIX,linhty.xyz
 DOMAIN-SUFFIX,app-measurement.com
-IP-CIDR,113.105.0.0/16,no-resolve
 IP-CIDR,202.63.51.0/24,no-resolve
 IP-CIDR,14.152.0.0/16,no-resolve
 IP-CIDR,31.13.0.0/16,no-resolve
