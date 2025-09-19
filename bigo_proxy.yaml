@@ -5,6 +5,7 @@ payload:
   - DOMAIN,fbesx.bigo.sg
   - DOMAIN,fs.calldev.bigo.sg
   - DOMAIN,giftesx.bigo.sg
+  - DOMAIN,image-pay.bdesk.tech
   - DOMAIN,esx.bigo.sg
   - DOMAIN,support0.dfaklj.tech
   - DOMAIN,videosnap.esx.bigo.sg
@@ -18,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,yqwsa.net
   - DOMAIN-SUFFIX,dfaklj.tech
+  - DOMAIN-SUFFIX,bdesk.tech
   - IP-CIDR,36.155.0.0/16,no-resolve
   - IP-CIDR,31.58.0.0/16,no-resolve
   - IP-CIDR,169.136.0.0/16,no-resolve
