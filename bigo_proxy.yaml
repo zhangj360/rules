@@ -1,6 +1,8 @@
 payload:
   - DOMAIN,gdl.bigo.sg
   - DOMAIN,giftesx.bigo.sg
+  - DOMAIN,esx.bigo.sg
+  - DOMAIN,videosnap.esx.bigo.sg
   - DOMAIN,frontmon-sysop.bigo.sg
   - DOMAIN,static-fed.yqwsa.net
   - DOMAIN,ta.ukyuh.tech
