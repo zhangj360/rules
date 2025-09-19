@@ -1,6 +1,7 @@
 DOMAIN,gdl.bigo.sg
 DOMAIN,hotroom.live.bigo.sg
 DOMAIN,newlbs.live.bigo.sg
+DOMAIN,mbile.bigo.tv
 DOMAIN,fbesx.bigo.sg
 DOMAIN,fs.calldev.bigo.sg
 DOMAIN,giftesx.bigo.sg
@@ -10,6 +11,7 @@ DOMAIN,frontmon-sysop.bigo.sg
 DOMAIN,static-fed.yqwsa.net
 DOMAIN,ta.ukyuh.tech
 DOMAIN-SUFFIX,bigo.sg
+DOMAIN-SUFFIX,bigo.tv
 DOMAIN-SUFFIX,weihuitel.com
 DOMAIN-SUFFIX,f2ecdn.com
 DOMAIN-SUFFIX,ukyuh.tech
