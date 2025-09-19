@@ -2,6 +2,7 @@ payload:
   - DOMAIN,api.likee.video
   - DOMAIN,support1.like.video
   - DOMAIN,mbile.bigo.tv
+  - DOMAIN,static-web.bigopay.sg
   - DOMAIN-SUFFIX,likee.video
   - DOMAIN-SUFFIX,bigo.tv
   - DOMAIN-SUFFIX,like.video
