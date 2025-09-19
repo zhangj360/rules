@@ -1,9 +1,6 @@
 payload:
   - DOMAIN,api.likee.video
   - DOMAIN,support1.like.video
-  - DOMAIN,gdl.bigo.sg
-  - DOMAIN,giftesx.bigo.sg
-  - DOMAIN,frontmon-sysop.bigo.sg
   - DOMAIN-SUFFIX,likee.video
   - DOMAIN-SUFFIX,bigo.tv
   - DOMAIN-SUFFIX,like.video
