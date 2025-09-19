@@ -6,7 +6,6 @@ payload:
   - DOMAIN,fs.calldev.bigo.sg
   - DOMAIN,giftesx.bigo.sg
   - DOMAIN,esx.bigo.sg
-  - DOMAIN,sg.bigo.live
   - DOMAIN,videosnap.esx.bigo.sg
   - DOMAIN,frontmon-sysop.bigo.sg
   - DOMAIN,static-fed.yqwsa.net
@@ -17,7 +16,6 @@ payload:
   - DOMAIN-SUFFIX,ukyuh.tech
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,yqwsa.net
-  - DOMAIN-SUFFIX,bigo.live
   - IP-CIDR,36.155.0.0/16,no-resolve
   - IP-CIDR,31.58.0.0/16,no-resolve
   - IP-CIDR,169.136.0.0/16,no-resolve
