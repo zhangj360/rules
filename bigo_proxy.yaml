@@ -4,6 +4,7 @@ payload:
   - DOMAIN,newlbs.live.bigo.sg
   - DOMAIN,fbesx.bigo.sg
   - DOMAIN,fs.calldev.bigo.sg
+  - DOMAIN,actan.owxd.xyz
   - DOMAIN,giftesx.bigo.sg
   - DOMAIN,image-pay.bdesk.tech
   - DOMAIN,esx.bigo.sg
@@ -14,6 +15,7 @@ payload:
   - DOMAIN,static-fed.yqwsa.net
   - DOMAIN,ta.ukyuh.tech
   - DOMAIN-SUFFIX,bigo.sg
+  - DOMAIN-SUFFIX,owxd.xyz
   - DOMAIN-SUFFIX,weihuitel.com
   - DOMAIN-SUFFIX,f2ecdn.com
   - DOMAIN-SUFFIX,ukyuh.tech
