@@ -4,4 +4,6 @@ payload:
   - DOMAIN-SUFFIX,dutils.com
   - DOMAIN-SUFFIX,meoo.live
   - DOMAIN-SUFFIX,meoodata.com
+  - DOMAIN-SUFFIX,meoodata01.com
+  - DOMAIN-SUFFIX,meoodata02.com
   - PROCESS-NAME,com.ufun.livestreaming
