@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,mymeoo
   - DOMAIN-SUFFIX,dutils.com
   - DOMAIN-SUFFIX,meoo.live
+  - DOMAIN-SUFFIX,rtcplus.com
   - DOMAIN-SUFFIX,meoodata.com
   - DOMAIN-SUFFIX,meoodata01.com
   - DOMAIN-SUFFIX,meoodata02.com
