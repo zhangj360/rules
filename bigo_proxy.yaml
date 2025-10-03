@@ -14,6 +14,8 @@ payload:
   - DOMAIN,frontmon-sysop.bigo.sg
   - DOMAIN,static-fed.yqwsa.net
   - DOMAIN,ta.ukyuh.tech
+  - DOMAIN,inapps.appsflyersdk.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,bigo.sg
   - DOMAIN-SUFFIX,owxd.xyz
   - DOMAIN-SUFFIX,weihuitel.com
