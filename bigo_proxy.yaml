@@ -25,12 +25,12 @@ payload:
   - DOMAIN-SUFFIX,yqwsa.net
   - DOMAIN-SUFFIX,dfaklj.tech
   - DOMAIN-SUFFIX,bdesk.tech
-  - IP-CIDR,36.155.0.0/16,no-resole
-  - IP-CIDR,42.81.0.0/16,no-resole
-  - IP-CIDR,116.63.0.0/16,no-resole
-  - IP-CIDR,18.155.0.0/16,no-resole
-  - IP-CIDR,18.239.0.0/16,no-resole
-  - IP-CIDR,198.18.0.0/16,no-resole
+  - IP-CIDR,36.155.0.0/16,no-resolve
+  - IP-CIDR,42.81.0.0/16,no-resolve
+  - IP-CIDR,116.63.0.0/16,no-resolve
+  - IP-CIDR,18.155.0.0/16,no-resolve
+  - IP-CIDR,18.239.0.0/16,no-resolve
+  - IP-CIDR,198.18.0.0/16,no-resolve
   - IP-CIDR,31.58.0.0/16,no-resolve
   - IP-CIDR,169.136.0.0/16,no-resolve
   - IP-CIDR,202.63.0.0/16,no-resolve
