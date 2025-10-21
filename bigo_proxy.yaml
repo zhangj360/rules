@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,gdl.bigo.sg
+  - DOMAIN,okdeq-bh.tmdak.top
   - DOMAIN,hotroom.live.bigo.sg
   - DOMAIN,newlbs.live.bigo.sg
   - DOMAIN,fbesx.bigo.sg
@@ -25,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,yqwsa.net
   - DOMAIN-SUFFIX,dfaklj.tech
   - DOMAIN-SUFFIX,bdesk.tech
+  - DOMAIN-SUFFIX,tmdak.top
   - IP-CIDR,36.155.0.0/16,no-resolve
   - IP-CIDR,42.81.0.0/16,no-resolve
   - IP-CIDR,116.63.0.0/16,no-resolve
