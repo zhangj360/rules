@@ -17,6 +17,8 @@ payload:
   - DOMAIN,static-fed.yqwsa.net
   - DOMAIN,ta.ukyuh.tech
   - DOMAIN,inapps.appsflyersdk.com
+  - DOMAIN,static-web.bigopay.sg
+  - DOMAIN-SUFFIX,bigopay.sg
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,bigo.sg
   - DOMAIN-SUFFIX,owxd.xyz
