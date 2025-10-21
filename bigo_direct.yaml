@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,giphy.com
   - DOMAIN-SUFFIX,bigovideo.tv
   - DOMAIN-SUFFIX,hzmk.site
-  - DOMAIN-SUFFIX,bigopay.tech
   - DOMAIN-SUFFIX,linhty.xyz
   - DOMAIN-SUFFIX,app-measurement.com
   - IP-CIDR,202.63.51.0/24,no-resolve
