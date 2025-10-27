@@ -1,50 +1,52 @@
-DOMAIN,gdl.bigo.sg
-DOMAIN,okdeq-bh.tmdak.top
-DOMAIN,hotroom.live.bigo.sg
-DOMAIN,newlbs.live.bigo.sg
-DOMAIN,fbesx.bigo.sg
-DOMAIN,fs.calldev.bigo.sg
-DOMAIN,actan.owxd.xyz
-DOMAIN,giftesx.bigo.sg
-DOMAIN,image-pay.bdesk.tech
-DOMAIN,static-pay.bdesk.tech
-DOMAIN,esx.bigo.sg
-DOMAIN,static.f2ecdn.com
-DOMAIN,support0.dfaklj.tech
-DOMAIN,videosnap.esx.bigo.sg
-DOMAIN,frontmon-sysop.bigo.sg
-DOMAIN,static-fed.yqwsa.net
-DOMAIN,ta.ukyuh.tech
-DOMAIN,inapps.appsflyersdk.com
-DOMAIN,static-web.bigopay.sg
-DOMAIN-SUFFIX,bigopay.sg
-DOMAIN-SUFFIX,bigopay.tech
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,bigo.sg
-DOMAIN-SUFFIX,owxd.xyz
-DOMAIN-SUFFIX,weihuitel.com
-DOMAIN-SUFFIX,f2ecdn.com
-DOMAIN-SUFFIX,ukyuh.tech
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,yqwsa.net
-DOMAIN-SUFFIX,dfaklj.tech
-DOMAIN-SUFFIX,bdesk.tech
-DOMAIN-SUFFIX,tmdak.top
-IP-CIDR,36.155.0.0/16,no-resolve
-IP-CIDR,42.81.0.0/16,no-resolve
-IP-CIDR,116.63.0.0/16,no-resolve
-IP-CIDR,18.155.0.0/16,no-resolve
-IP-CIDR,18.239.0.0/16,no-resolve
-IP-CIDR,198.18.0.0/16,no-resolve
-IP-CIDR,31.58.0.0/16,no-resolve
-IP-CIDR,169.136.0.0/16,no-resolve
-IP-CIDR,202.63.0.0/16,no-resolve
-IP-CIDR,13.225.0.0/16,no-resolve
-IP-CIDR,13.226.0.0/16,no-resolve
-IP-CIDR,13.32.0.0/16,no-resolve
-IP-CIDR,13.33.0.0/16,no-resolve
-IP-CIDR,13.35.0.0/16,no-resolve
-IP-CIDR,113.105.0.0/16,no-resolve
-IP-CIDR,13.57.0.0/16,no-resolve
-IP-CIDR,13.115.0.0/16,no-resolve
-IP-CIDR,103.235.0.0/16,no-resolve
+ payload:
+  - DOMAIN,gdl.bigo.sg
+  - DOMAIN,okdeq-bh.tmdak.top
+  - DOMAIN,hotroom.live.bigo.sg
+  - DOMAIN,newlbs.live.bigo.sg
+  - DOMAIN,static-web.bigopay.sg
+  - DOMAIN,fbesx.bigo.sg
+  - DOMAIN,fs.calldev.bigo.sg
+  - DOMAIN,actan.owxd.xyz
+  - DOMAIN,giftesx.bigo.sg
+  - DOMAIN,image-pay.bdesk.tech
+  - DOMAIN,static-pay.bdesk.tech
+  - DOMAIN,esx.bigo.sg
+  - DOMAIN,static.f2ecdn.com
+  - DOMAIN,support0.dfaklj.tech
+  - DOMAIN,videosnap.esx.bigo.sg
+  - DOMAIN,frontmon-sysop.bigo.sg
+  - DOMAIN,static-fed.yqwsa.net
+  - DOMAIN,ta.ukyuh.tech
+  - DOMAIN,inapps.appsflyersdk.com
+  - DOMAIN,static-web.bigopay.sg
+  - DOMAIN-SUFFIX,bigopay.sg
+  - DOMAIN-SUFFIX,bigopay.tech
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,bigo.sg
+  - DOMAIN-SUFFIX,owxd.xyz
+  - DOMAIN-SUFFIX,weihuitel.com
+  - DOMAIN-SUFFIX,f2ecdn.com
+  - DOMAIN-SUFFIX,ukyuh.tech
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,yqwsa.net
+  - DOMAIN-SUFFIX,dfaklj.tech
+  - DOMAIN-SUFFIX,bdesk.tech
+  - DOMAIN-SUFFIX,tmdak.top
+  - IP-CIDR,36.155.0.0/16,no-resolve
+  - IP-CIDR,42.81.0.0/16,no-resolve
+  - IP-CIDR,116.63.0.0/16,no-resolve
+  - IP-CIDR,18.155.0.0/16,no-resolve
+  - IP-CIDR,18.239.0.0/16,no-resolve
+  - IP-CIDR,198.18.0.0/16,no-resolve
+  - IP-CIDR,31.58.0.0/16,no-resolve
+  - IP-CIDR,169.136.0.0/16,no-resolve
+  - IP-CIDR,202.63.0.0/16,no-resolve
+  - IP-CIDR,13.225.0.0/16,no-resolve
+  - IP-CIDR,13.226.0.0/16,no-resolve
+  - IP-CIDR,13.32.0.0/16,no-resolve
+  - IP-CIDR,13.33.0.0/16,no-resolve
+  - IP-CIDR,13.35.0.0/16,no-resolve
+  - IP-CIDR,113.105.0.0/16,no-resolve
+  - IP-CIDR,13.57.0.0/16,no-resolve
+  - IP-CIDR,13.115.0.0/16,no-resolve
+  - IP-CIDR,103.235.0.0/16,no-resolve
