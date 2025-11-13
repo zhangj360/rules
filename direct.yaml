@@ -1,6 +1,7 @@
 payload:
   - IP-CIDR,107.175.230.87,no-resolve
   - DOMAIN,vps.yebanhua.online
+  - DOMAIN,download.meoolive.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,max.com
