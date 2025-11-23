@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,meoolive.com
   - DOMAIN-SUFFIX,com.cn
   - DOMAIN-SUFFIX,net.cn
+  - DOMAIN-KEYWORD,.cn
