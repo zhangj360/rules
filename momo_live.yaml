@@ -11,11 +11,8 @@ payload:
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,zkcvd17.online
   - IP-CIDR,150.136.108.0/24
-  - IP-CIDR,106.14.12.0/24
-  - IP-CIDR,47.107.39.0/24
   - IP-CIDR,129.154.231.0/24
   - IP-CIDR,23.98.43.0/24
-  - IP-CIDR,101.251.217.0/24
   - IP-CIDR,3.0.163.0/24
   - IP-CIDR,129.151.253.0/24
   - IP-CIDR,107.155.53.0/24
@@ -25,6 +22,4 @@ payload:
   - IP-CIDR,158.101.165.0/24
   - IP-CIDR,146.56.189.0/24
   - IP-CIDR,168.138.222.0/24
-  - IP-CIDR,218.6.172.0/24
-  - IP-CIDR,1.82.218.0/24
   - PROCESS-NAME,com.huixin.mengguo
