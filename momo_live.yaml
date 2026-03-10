@@ -25,5 +25,6 @@ payload:
   - IP-CIDR,158.101.165.0/24
   - IP-CIDR,146.56.189.0/24
   - IP-CIDR,168.138.222.0/24
+  - IP-CIDR,218.6.172.0/24
   - IP-CIDR,1.82.218.0/24
   - PROCESS-NAME,com.huixin.mengguo
