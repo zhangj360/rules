@@ -1,5 +1,6 @@
 payload:
-DOMAIN,proxy.momoindo.com
+
+ - DOMAIN,proxy.momoindo.com
 DOMAIN,qnoss.momoindo.com
 DOMAIN,ap3.agora.io
 DOMAIN,lh3.googleusercontent.com
