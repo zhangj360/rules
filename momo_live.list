@@ -21,4 +21,3 @@ IP-CIDR,199.190.44.0/24,no-resolve
 IP-CIDR,158.101.165.0/24,no-resolve
 IP-CIDR,146.56.189.0/24,no-resolve
 IP-CIDR,168.138.222.0/24,no-resolve
-PROCESS-NAME,com.huixin.mengguo
