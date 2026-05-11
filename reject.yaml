@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,tamei.cyou
   - DOMAIN-SUFFIX,noggrtea.cyou
+  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-KEYWORD,cyou
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN,0mo5a70cqa.adobe.io
