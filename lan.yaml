@@ -11,4 +11,3 @@ payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
   - GEOIP,CN
-  - MATCH
