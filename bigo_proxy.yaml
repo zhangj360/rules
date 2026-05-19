@@ -59,3 +59,7 @@
   - IP-CIDR,202.168.0.0/16,no-resolve
   - IP-CIDR,169.136.0.0/16,no-resolve
   - IP-CIDR,202.63.0.0/16,no-resolve
+  - DOMAIN,esx.piojm.tech
+  - DOMAIN,conf.piojm.tech
+  - DOMAIN,static-web.piojm.tech
+  - DOMAIN-SUFFIX,piojm.tech
