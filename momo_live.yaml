@@ -23,3 +23,4 @@ payload:
   - IP-CIDR,146.56.189.0/24
   - IP-CIDR,168.138.222.0/24
   - PROCESS-NAME,com.huixin.mengguo
+  - DOMAIN-SUFFIX,oioilive.com
