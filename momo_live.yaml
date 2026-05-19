@@ -25,3 +25,7 @@ payload:
   - PROCESS-NAME,com.huixin.mengguo
   - DOMAIN-SUFFIX,oioilive.com
   - DOMAIN-KEYWORD,oioilive
+  - DOMAIN-KEYWORD,tlivesdk
+  - DOMAIN-SUFFIX,qcloud.com
+  - DOMAIN-SUFFIX,sdk-license.com
+  - DOMAIN-SUFFIX,tlivesdk.com
