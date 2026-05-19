@@ -23,4 +23,7 @@ IP-CIDR,146.56.189.0/24,no-resolve
 IP-CIDR,168.138.222.0/24,no-resolve
 DOMAIN-SUFFIX,oioilive.com
 DOMAIN-KEYWORD,oioilive
+DOMAIN-KEYWORD,tlivesdk
+DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,sdk-license.com
+DOMAIN-SUFFIX,tlivesdk.com
