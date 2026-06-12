@@ -32,6 +32,7 @@
   - DOMAIN-SUFFIX,dfaklj.tech
   - DOMAIN-SUFFIX,bdesk.tech
   - DOMAIN-SUFFIX,tmdak.top
+  - DOMAIN-SUFFIX,app-measurement.com
   - IP-CIDR,36.155.0.0/16,no-resolve
   - IP-CIDR,42.81.0.0/16,no-resolve
   - IP-CIDR,116.63.0.0/16,no-resolve
