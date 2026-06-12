@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,ecombdimg.com
   - DOMAIN-SUFFIX,byteimg.com
-  - IP-CIDR,220.167.6.165/32
   - DOMAIN-SUFFIX,tamei.cyou
   - DOMAIN-SUFFIX,noggrtea.cyou
   - DOMAIN-SUFFIX,microsoft.com
