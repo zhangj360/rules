@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
+  - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,1010991.xyz
   - DOMAIN-SUFFIX,126.com
   - DOMAIN-SUFFIX,126.net
