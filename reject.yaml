@@ -1,4 +1,6 @@
 payload:
+  - geosite:douyin
+  - geosite:kuaishou
   - DOMAIN-SUFFIX,douyincdn.com
   - DOMAIN-SUFFIX,ecombdimg.com
   - DOMAIN-SUFFIX,byteimg.com
