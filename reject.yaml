@@ -1,4 +1,9 @@
 payload:
+  - IP-CIDR,47.103.33.207/32
+  - IP-CIDR,47.93.60.215/32
+  - IP-CIDR,39.106.100.156/32
+  - IP-CIDR,8.134.159.218/32
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,douyincdn.com
   - DOMAIN-SUFFIX,ecombdimg.com
   - DOMAIN-SUFFIX,byteimg.com
