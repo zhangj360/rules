@@ -1,7 +1,6 @@
 payload:
   - DOMAIN,cdn.hockeyapp.net
   - DOMAIN,cn.bing.com
-  - DOMAIN,download.meoolive.com
   - DOMAIN,vps.yebanhua.online
   - DOMAIN-KEYWORD,.cn
   - DOMAIN-KEYWORD,alicdn
