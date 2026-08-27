@@ -1,7 +1,6 @@
 payload:
   - DOMAIN,cdn.hockeyapp.net
   - DOMAIN,cn.bing.com
-  - DOMAIN,vps.yebanhua.online
   - DOMAIN-KEYWORD,.cn
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
@@ -157,7 +156,6 @@ payload:
   - DOMAIN-SUFFIX,ximalaya.com
   - DOMAIN-SUFFIX,xmcdn.com
   - DOMAIN-SUFFIX,xunlei.com
-  - DOMAIN-SUFFIX,yebanhua.online
   - DOMAIN-SUFFIX,yhd.com
   - DOMAIN-SUFFIX,yihaodianimg.com
   - DOMAIN-SUFFIX,yinxiang.com
