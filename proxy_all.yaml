@@ -613,3 +613,48 @@ payload:
   - DOMAIN,conf.piojm.tech
   - DOMAIN,static-web.piojm.tech
   - DOMAIN-SUFFIX,piojm.tech
+# meoo
+  - DOMAIN-SUFFIX,mymeoo.cc
+  - DOMAIN-KEYWORD,mymeoo
+  - DOMAIN-KEYWORD,meoolive
+  - DOMAIN-SUFFIX,dutils.com
+  - DOMAIN-SUFFIX,meoo.live
+  - DOMAIN-SUFFIX,meoolive.com
+  - DOMAIN-SUFFIX,imdata.live
+  - DOMAIN-SUFFIX,rtcplus.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,meoodata.com
+  - DOMAIN-SUFFIX,meoodata01.com
+  - DOMAIN-SUFFIX,meoodata02.com
+  - PROCESS-NAME,com.ufun.livestreaming
+# momo live
+  - DOMAIN,proxy.momoindo.com
+  - DOMAIN,qnoss.momoindo.com
+  - DOMAIN,ap3.agora.io
+  - DOMAIN,lh3.googleusercontent.com
+  - DOMAIN,access.zkcvd17.online
+  - DOMAIN,ap1-tds.agora.io
+  - DOMAIN,bs-game.momoindo.com
+  - DOMAIN-SUFFIX,momoindo.com
+  - DOMAIN-SUFFIX,agora.io
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,zkcvd17.online
+  - IP-CIDR,150.136.108.0/24
+  - IP-CIDR,129.154.231.0/24
+  - IP-CIDR,23.98.43.0/24
+  - IP-CIDR,3.0.163.0/24
+  - IP-CIDR,129.151.253.0/24
+  - IP-CIDR,107.155.53.0/24
+  - IP-CIDR,129.153.208.0/24
+  - IP-CIDR,144.24.139.0/24
+  - IP-CIDR,199.190.44.0/24
+  - IP-CIDR,158.101.165.0/24
+  - IP-CIDR,146.56.189.0/24
+  - IP-CIDR,168.138.222.0/24
+  - PROCESS-NAME,com.huixin.mengguo
+  - DOMAIN-SUFFIX,oioilive.com
+  - DOMAIN-KEYWORD,oioilive
+  - DOMAIN-KEYWORD,tlivesdk
+  - DOMAIN-SUFFIX,qcloud.com
+  - DOMAIN-SUFFIX,sdk-license.com
+  - DOMAIN-SUFFIX,tlivesdk.com
