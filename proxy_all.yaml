@@ -680,3 +680,4 @@ payload:
 # other
   - DOMAIN-KEYWORD,ssrdog
   - DOMAIN-KEYWORD,hosbbq.com
+  - DOMAIN-SUFFIX,ssrdog.com
