@@ -548,7 +548,6 @@ payload:
   - IP-CIDR,202.168.0.0/16,no-resolve
   - IP-CIDR,169.136.0.0/16,no-resolve
   - IP-CIDR,202.63.0.0/16,no-resolve
- payload:
   - DOMAIN,gdl.bigo.sg
   - DOMAIN,okdeq-bh.tmdak.top
   - DOMAIN,hotroom.live.bigo.sg
