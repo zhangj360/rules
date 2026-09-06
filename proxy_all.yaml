@@ -679,3 +679,4 @@ payload:
   - IP-CIDR,157.185.0.0/16
 # other
   - DOMAIN-KEYWORD,ssrdog
+  - DOMAIN-KEYWORD,hosbbq.com
