@@ -8,6 +8,7 @@ payload:
   - DOMAIN,cn.bing.com
   - DOMAIN-KEYWORD,.cn
   - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,6080
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,officecdn
