@@ -619,19 +619,9 @@ payload:
   - DOMAIN,static-web.piojm.tech
   - DOMAIN-SUFFIX,piojm.tech
 # meoo
-  - DOMAIN-SUFFIX,mymeoo.cc
-  - DOMAIN-KEYWORD,mymeoo
-  - DOMAIN-KEYWORD,meoolive
-  - DOMAIN-SUFFIX,dutils.com
-  - DOMAIN-SUFFIX,meoo.live
-  - DOMAIN-SUFFIX,meoolive.com
-  - DOMAIN-SUFFIX,imdata.live
-  - DOMAIN-SUFFIX,rtcplus.com
-  - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-SUFFIX,meoodata.com
   - DOMAIN-SUFFIX,meoodata01.com
   - DOMAIN-SUFFIX,meoodata02.com
-  - PROCESS-NAME,com.ufun.livestreaming
 # momo live
   - DOMAIN,proxy.momoindo.com
   - DOMAIN,qnoss.momoindo.com
