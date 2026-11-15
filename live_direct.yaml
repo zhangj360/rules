@@ -8,3 +8,35 @@ payload:
   - DOMAIN-SUFFIX,imdata.live
   - DOMAIN-SUFFIX,rtcplus.com
   - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN,api.likee.video
+  - DOMAIN,support1.like.video
+  - DOMAIN,mbile.bigo.tv
+  - DOMAIN-SUFFIX,likee.video
+  - DOMAIN-SUFFIX,bigo.tv
+  - DOMAIN-SUFFIX,like.video
+  - DOMAIN-SUFFIX,app-analytics-services.com
+  - DOMAIN-SUFFIX,like-video.com
+  - DOMAIN-SUFFIX,giphy.com
+  - DOMAIN-SUFFIX,bigovideo.tv
+  - DOMAIN-SUFFIX,hzmk.site
+  - DOMAIN-SUFFIX,linhty.xyz
+  - IP-CIDR,202.63.51.0/24,no-resolve
+  - IP-CIDR,14.152.0.0/16,no-resolve
+  - IP-CIDR,31.13.0.0/16,no-resolve
+  - IP-CIDR,35.190.0.0/16,no-resolve
+  - IP-CIDR,74.125.0.0/16,no-resolve
+  - IP-CIDR,116.132.0.0/16,no-resolve
+  - IP-CIDR,43.159.0.0/16,no-resolve
+  - IP-CIDR,199.16.0.0/16,no-resolve
+  - IP-CIDR,108.138.0.0/16,no-resolve
+  - IP-CIDR,18.164.0.0/16,no-resolve
+  - IP-CIDR,18.173.0.0/16,no-resolve
+  - IP-CIDR,18.244.0.0/16,no-resolve
+  - IP-CIDR,18.65.0.0/16,no-resolve
+  - IP-CIDR,18.66.0.0/16,no-resolve
+  - IP-CIDR,52.222.0.0/16,no-resolve
+  - IP-CIDR,52.85.0.0/16,no-resolve
+  - IP-CIDR,54.192.0.0/16,no-resolve
+  - IP-CIDR,58.221.0.0/16,no-resolve
+  - IP-CIDR,58.49.0.0/16,no-resolve
+  - IP-CIDR,27.19.0.0/16,no-resolve
