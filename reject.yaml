@@ -1,4 +1,11 @@
 payload:
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,ecombdapi.com
+  - DOMAIN-SUFFIX,ecombdpage.com
+  - DOMAIN-SUFFIX,douyinpic.com
+  - DOMAIN-SUFFIX,douyincdn.com
+  - DOMAIN-SUFFIX,wmzfylgdsz.com
+  - DOMAIN-SUFFIX,bytednsdoc.com
   - DOMAIN,0mo5a70cqa.adobe.io
   - DOMAIN,118.89.204.198
   - DOMAIN,1hzopx6nz7.adobe.io
